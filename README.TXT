@@ -4,9 +4,6 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: E function calculator
+PURPOSE OF PROJECT: calculates the value of e based on the infinite 
+series that computes the sum of 1/(n!) as n approaches infinite
