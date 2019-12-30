@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EFunction
+comment1.params=
+comment1.target=EFunction()
+comment2.params=
+comment2.target=double\ getEapprox()
+comment3.params=
+comment3.target=long\ getNterms()
+comment4.params=n
+comment4.target=void\ addNextTerms(long)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
